@@ -1,0 +1,45 @@
+Warning[215] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 9 : Processor superseded by command line.  Verify processor symbol.
+Message[302] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 67 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 73 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 199 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 210 : Found label after column 1. (DISABLE1)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 216 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 227 : Found label after column 1. (DISABLE2)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 234 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 245 : Found label after column 1. (DISABLE3)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 253 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 264 : Found label after column 1. (DISABLE4)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 271 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 282 : Found label after column 1. (DISABLE5)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 289 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 300 : Found label after column 1. (DISABLE6)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 308 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 319 : Found label after column 1. (DISABLE7)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 326 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 337 : Found label after column 1. (DISABLE8)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 345 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 356 : Found label after column 1. (DISABLE9)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 363 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 374 : Found label after column 1. (DISABLE10)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 383 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 394 : Found label after column 1. (DISABLE11)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 402 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 413 : Found label after column 1. (DISABLE12)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 420 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 431 : Found label after column 1. (DISABLE13)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 438 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 449 : Found label after column 1. (DISABLE14)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 457 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 468 : Found label after column 1. (DISABLE15)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 476 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 487 : Found label after column 1. (DISABLE16)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 494 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 505 : Found label after column 1. (DISABLE17)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 513 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 524 : Found label after column 1. (DISABLE18)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 531 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 542 : Found label after column 1. (DISABLE19)
+Message[305] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 549 : Using default destination of 1 (file).
+Warning[207] C:\USERS\AHMAD DAR KHALIL\DOCUMENTS\PIC\TIMER0.ASM 560 : Found label after column 1. (DISABLE20)

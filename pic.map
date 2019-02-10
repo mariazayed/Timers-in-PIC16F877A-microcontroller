@@ -1,0 +1,206 @@
+MPLINK 4.41, Linker
+Linker Map File - Created Wed May 30 23:30:56 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000270
+    .config_2007_TIMER0.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x00013b      
+                            0x002007    0x002007      
+            316 out of 8454 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CLR_1   0x0000ea    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_10   0x00010e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_11   0x000112    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_12   0x000116    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_13   0x00011a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_14   0x00011e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_15   0x000122    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_16   0x000126    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_17   0x00012a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_18   0x00012e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_19   0x000132    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_2   0x0000ee    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_20   0x000136    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_3   0x0000f2    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_4   0x0000f6    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_5   0x0000fa    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_6   0x0000fe    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_7   0x000102    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_8   0x000106    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_9   0x00010a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 CONTINUE   0x00013a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_1   0x0000eb    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_10   0x00010f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_11   0x000113    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_12   0x000117    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_13   0x00011b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_14   0x00011f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_15   0x000123    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_16   0x000127    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_17   0x00012b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_18   0x00012f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_19   0x000133    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_2   0x0000ef    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_20   0x000137    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_3   0x0000f3    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_4   0x0000f7    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_5   0x0000fb    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_6   0x0000ff    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_7   0x000103    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_8   0x000107    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_9   0x00010b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE1   0x000050    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE10   0x000098    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE11   0x0000a0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE12   0x0000a8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE13   0x0000b0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE14   0x0000b8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE15   0x0000c0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE16   0x0000c8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE17   0x0000d0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE18   0x0000d8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE19   0x0000e0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE2   0x000058    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE20   0x0000e8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE3   0x000060    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE4   0x000068    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE5   0x000070    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE6   0x000078    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE7   0x000080    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE8   0x000088    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE9   0x000090    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                     INIT   0x000005    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                     MAIN   0x000046    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T1   0x000049    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T10   0x000091    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T11   0x000099    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T12   0x0000a1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T13   0x0000a9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T14   0x0000b1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T15   0x0000b9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T16   0x0000c1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T17   0x0000c9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T18   0x0000d1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T19   0x0000d9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T2   0x000051    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T20   0x0000e1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T21   0x0000e9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T3   0x000059    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T4   0x000061    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T5   0x000069    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T6   0x000071    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T7   0x000079    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T8   0x000081    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T9   0x000089    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                  TMR_CNT   0x000047    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+             _.org_1_0046   0x000046    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     INIT   0x000005    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                     MAIN   0x000046    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+             _.org_1_0046   0x000046    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                  TMR_CNT   0x000047    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T1   0x000049    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE1   0x000050    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T2   0x000051    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE2   0x000058    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T3   0x000059    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE3   0x000060    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T4   0x000061    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE4   0x000068    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T5   0x000069    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE5   0x000070    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T6   0x000071    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE6   0x000078    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T7   0x000079    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE7   0x000080    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T8   0x000081    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE8   0x000088    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                       T9   0x000089    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 DISABLE9   0x000090    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T10   0x000091    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE10   0x000098    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T11   0x000099    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE11   0x0000a0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T12   0x0000a1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE12   0x0000a8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T13   0x0000a9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE13   0x0000b0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T14   0x0000b1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE14   0x0000b8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T15   0x0000b9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE15   0x0000c0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T16   0x0000c1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE16   0x0000c8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T17   0x0000c9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE17   0x0000d0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T18   0x0000d1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE18   0x0000d8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T19   0x0000d9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE19   0x0000e0    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T20   0x0000e1    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                DISABLE20   0x0000e8    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                      T21   0x0000e9    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_1   0x0000ea    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_1   0x0000eb    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_2   0x0000ee    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_2   0x0000ef    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_3   0x0000f2    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_3   0x0000f3    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_4   0x0000f6    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_4   0x0000f7    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_5   0x0000fa    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_5   0x0000fb    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_6   0x0000fe    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_6   0x0000ff    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_7   0x000102    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_7   0x000103    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_8   0x000106    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_8   0x000107    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                    CLR_9   0x00010a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+               CONTINUE_9   0x00010b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_10   0x00010e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_10   0x00010f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_11   0x000112    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_11   0x000113    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_12   0x000116    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_12   0x000117    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_13   0x00011a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_13   0x00011b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_14   0x00011e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_14   0x00011f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_15   0x000122    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_15   0x000123    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_16   0x000126    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_16   0x000127    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_17   0x00012a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_17   0x00012b    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_18   0x00012e    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_18   0x00012f    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_19   0x000132    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_19   0x000133    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                   CLR_20   0x000136    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+              CONTINUE_20   0x000137    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+                 CONTINUE   0x00013a    program     static C:\Users\Ahmad Dar Khalil\Documents\pic\timer0.asm
+
+
